@@ -13,5 +13,7 @@ comparação - x == y'''
 
 a = 9
 x = y = z = a
+print(a)
 
 x == y == z == a
+print(a)
